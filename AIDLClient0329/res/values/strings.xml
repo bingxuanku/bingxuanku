@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">AIDLClient0329</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_activity0329">Activity0329</string>
+<string name="btn_get">获取AIDL数据</string>
+<string name="btn_show">显示</string>
+</resources>
